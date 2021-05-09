@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.39b72fdb.chunk.css",
-    "main.js": "/static/js/main.eff087de.chunk.js",
-    "main.js.map": "/static/js/main.eff087de.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a460b1cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a460b1cf.js.map",
-    "static/js/2.819e71e6.chunk.js": "/static/js/2.819e71e6.chunk.js",
-    "static/js/2.819e71e6.chunk.js.map": "/static/js/2.819e71e6.chunk.js.map",
-    "static/js/3.2cbf32b4.chunk.js": "/static/js/3.2cbf32b4.chunk.js",
-    "static/js/3.2cbf32b4.chunk.js.map": "/static/js/3.2cbf32b4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.39b72fdb.chunk.css.map": "/static/css/main.39b72fdb.chunk.css.map",
-    "static/js/2.819e71e6.chunk.js.LICENSE.txt": "/static/js/2.819e71e6.chunk.js.LICENSE.txt",
-    "static/media/saroj.1a53e4d6.JPG": "/static/media/saroj.1a53e4d6.JPG"
+    "main.css": "/Mywebsite/static/css/main.39b72fdb.chunk.css",
+    "main.js": "/Mywebsite/static/js/main.156d1c1b.chunk.js",
+    "main.js.map": "/Mywebsite/static/js/main.156d1c1b.chunk.js.map",
+    "runtime-main.js": "/Mywebsite/static/js/runtime-main.c2f4da14.js",
+    "runtime-main.js.map": "/Mywebsite/static/js/runtime-main.c2f4da14.js.map",
+    "static/js/2.005e8e01.chunk.js": "/Mywebsite/static/js/2.005e8e01.chunk.js",
+    "static/js/2.005e8e01.chunk.js.map": "/Mywebsite/static/js/2.005e8e01.chunk.js.map",
+    "static/js/3.bc0419f1.chunk.js": "/Mywebsite/static/js/3.bc0419f1.chunk.js",
+    "static/js/3.bc0419f1.chunk.js.map": "/Mywebsite/static/js/3.bc0419f1.chunk.js.map",
+    "index.html": "/Mywebsite/index.html",
+    "static/css/main.39b72fdb.chunk.css.map": "/Mywebsite/static/css/main.39b72fdb.chunk.css.map",
+    "static/js/2.005e8e01.chunk.js.LICENSE.txt": "/Mywebsite/static/js/2.005e8e01.chunk.js.LICENSE.txt",
+    "static/media/bp.b589e09a.jpg": "/Mywebsite/static/media/bp.b589e09a.jpg",
+    "static/media/busquet.5b46b537.jpg": "/Mywebsite/static/media/busquet.5b46b537.jpg",
+    "static/media/messi.c032bb52.jpg": "/Mywebsite/static/media/messi.c032bb52.jpg",
+    "static/media/pep.6d3afb29.jpg": "/Mywebsite/static/media/pep.6d3afb29.jpg",
+    "static/media/saroj.1a53e4d6.JPG": "/Mywebsite/static/media/saroj.1a53e4d6.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a460b1cf.js",
-    "static/js/2.819e71e6.chunk.js",
+    "static/js/runtime-main.c2f4da14.js",
+    "static/js/2.005e8e01.chunk.js",
     "static/css/main.39b72fdb.chunk.css",
-    "static/js/main.eff087de.chunk.js"
+    "static/js/main.156d1c1b.chunk.js"
   ]
 }
