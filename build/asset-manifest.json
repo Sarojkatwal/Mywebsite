@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mywebsite/static/css/main.39b72fdb.chunk.css",
-    "main.js": "/Mywebsite/static/js/main.11d1cc96.chunk.js",
-    "main.js.map": "/Mywebsite/static/js/main.11d1cc96.chunk.js.map",
+    "main.js": "/Mywebsite/static/js/main.4545ba61.chunk.js",
+    "main.js.map": "/Mywebsite/static/js/main.4545ba61.chunk.js.map",
     "runtime-main.js": "/Mywebsite/static/js/runtime-main.d3003a9b.js",
     "runtime-main.js.map": "/Mywebsite/static/js/runtime-main.d3003a9b.js.map",
     "static/js/2.4c8a4ff2.chunk.js": "/Mywebsite/static/js/2.4c8a4ff2.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/busquet.5b46b537.jpg": "/Mywebsite/static/media/busquet.5b46b537.jpg",
     "static/media/messi.c032bb52.jpg": "/Mywebsite/static/media/messi.c032bb52.jpg",
     "static/media/pep.6d3afb29.jpg": "/Mywebsite/static/media/pep.6d3afb29.jpg",
-    "static/media/saroj.1a53e4d6.JPG": "/Mywebsite/static/media/saroj.1a53e4d6.JPG"
+    "static/media/saroj.1a53e4d6.JPG": "/Mywebsite/static/media/saroj.1a53e4d6.JPG",
+    "static/media/welcome.2fd0ce89.png": "/Mywebsite/static/media/welcome.2fd0ce89.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3003a9b.js",
     "static/js/2.4c8a4ff2.chunk.js",
     "static/css/main.39b72fdb.chunk.css",
-    "static/js/main.11d1cc96.chunk.js"
+    "static/js/main.4545ba61.chunk.js"
   ]
 }
