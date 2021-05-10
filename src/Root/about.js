@@ -1,7 +1,13 @@
 import React, { Component } from "react";
+import messi from "../Images/messi.jpg";
+import bp from "../Images/bp.jpg";
+import pep from "../Images/pep.jpg";
+import busquet from "../Images/busquet.jpg";
 
 class About extends Component {
   render() {
+    const hasWindow = typeof window !== "undefined";
+    const height = hasWindow ? "100vh" : "100%";
     return (
       <>
         <div id="about">
@@ -152,6 +158,65 @@ class About extends Component {
             </button>
           </p>
           <hr />
+          <div style={{ marginBottom: "32px" }}>
+            <h1>
+              <b>My Favourites</b>
+            </h1>
+            <br />
+            <img
+              src={pep}
+              alt="asd"
+              width="100%"
+              style={{
+                maxHeight: height,
+                padding: "20%",
+                paddingBottom: 0,
+                paddingTop: 0,
+              }}
+            />
+            <h4 className="text-success text-center"> Coach:Pep Guardiola</h4>
+            <br />
+            <img
+              src={messi}
+              alt="asd"
+              width="100%"
+              style={{
+                maxHeight: height,
+                padding: "20%",
+                paddingBottom: 0,
+                paddingTop: 0,
+              }}
+            />
+            <h4 className="text-success text-center">Player:Lionel Messi </h4>
+            <br />
+            <img
+              src={busquet}
+              alt="asd"
+              width="100%"
+              style={{
+                maxHeight: height,
+                padding: "20%",
+                paddingBottom: 0,
+                paddingTop: 0,
+              }}
+            />
+            <h4 className="text-success text-center">
+              Midfielder:Sergio Busquet
+            </h4>
+            <br />
+            <img
+              src={bp}
+              alt="asd"
+              width="100%"
+              style={{
+                maxHeight: height,
+                padding: "20%",
+                paddingBottom: 0,
+                paddingTop: 0,
+              }}
+            />
+            <h4 className="text-success text-center"> Writer:BP Koirala</h4>
+          </div>
         </div>
       </>
     );

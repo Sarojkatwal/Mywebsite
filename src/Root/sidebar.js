@@ -72,7 +72,7 @@ class Sidebars extends Component {
               exact
               activeStyle={{ color: "magenta" }}
               to="/"
-              //onClick={() => this.props.doclose(this.sidebar, this.overlay)}
+              onClick={() => this.props.doclose(this.sidebar, this.overlay)}
               className="w3-bar-item w3-button w3-padding "
             >
               <i className="fa fa-th-large fa-fw w3-margin-right" />
